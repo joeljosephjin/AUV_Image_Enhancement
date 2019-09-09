@@ -17,9 +17,9 @@ The results are as follows :-
 
 ## enhance.py
 
-Homomorphic implementation
+Homomorphic implementation.
 
-The results are as follows:-
+The results are as follows :-
 
 ### 1.
 
